@@ -1,0 +1,55 @@
+.App {
+  font-family: 'Libre Baskerville';
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  
+}
+nav span{
+  padding-left: 30px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.App-header ul{
+  list-style: none;
+  color: white;
+}
+
+.App-header ul li{
+  display: inline-block;
+  padding-right: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+
+}
+
+.App-header ul li a{
+  color: white;
+  text-decoration: none;
+
+}
