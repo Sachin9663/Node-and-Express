@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "john doe",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "password": "test"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "password": "test"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Breuch",
+        "username": "Breuch",
+        "email": "Nathan@yesenia.net",
+        "password": "test"
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Anrianne",
+        "email": "Julianne.OConner@kory.org",
+        "password": "test"
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "password": "test"
+    }
+    
+]
